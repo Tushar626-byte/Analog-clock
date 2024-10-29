@@ -1,3 +1,5 @@
+Here’s an attractive README for your Analog Clock project:
+
 ---
 
 # Analog Clock 🕰️
@@ -41,7 +43,6 @@ You can easily tweak the look and feel of the clock by modifying the CSS file. F
 3. Commit your changes: `git commit -m 'Add AmazingFeature'`.
 4. Push to the branch: `git push origin feature/AmazingFeature`.
 5. Open a pull request.
-
 
 ## 📞 Contact
 

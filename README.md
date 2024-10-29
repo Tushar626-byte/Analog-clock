@@ -1,4 +1,4 @@
-Here’s an attractive README for your Analog Clock project:
+
 
 ---
 
